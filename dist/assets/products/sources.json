@@ -1,0 +1,38 @@
+[
+  {
+    "id": "LAB-159",
+    "query": "webcam camera",
+    "title": "File:Asus Zenbook UX32V - webcam module-9649.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Asus_Zenbook_UX32V_-_webcam_module-9649.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "<bdi><a href=\"https://www.wikidata.org/wiki/Q108103612\" class=\"extiw\" title=\"d:Q108103612\"><span title=\"Wikipedian and OpenStreetMap mapper from Cologne, Open Data activist\">Raimond Spekking</span></a></bdi>",
+    "file": "assets/products/LAB-159.jpg"
+  },
+  {
+    "id": "LAB-160",
+    "query": "micro SD card module",
+    "title": "File:Fairphone 2 ELEVATION transparent.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Fairphone_2_ELEVATION_transparent.jpg",
+    "license": "CC BY-SA 2.0",
+    "author": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/60295192@N08\">Fairphone</a>",
+    "file": "assets/products/LAB-160.jpg"
+  },
+  {
+    "id": "LAB-161",
+    "query": "rotary encoder module",
+    "title": "File:InviotU1Menu.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:InviotU1Menu.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Inviot&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Inviot (page does not exist)\">Dimitri Synodinos</a>",
+    "file": "assets/products/LAB-161.jpg"
+  },
+  {
+    "id": "LAB-164",
+    "query": "buzzer electronic component",
+    "title": "File:Electronic component piezo.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Electronic_component_piezo.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "me",
+    "file": "assets/products/LAB-164.jpg"
+  }
+]

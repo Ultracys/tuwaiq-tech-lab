@@ -1,0 +1,15 @@
+# Local working files
+work/
+outputs/
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# Dependencies and local environment
+node_modules/
+.env
+.env.*
+!.env.example

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "LAB-168",
+    "query": "ESP8266 WiFi module",
+    "title": "ESP8266 WiFi Module",
+    "source": "https://www.flickr.com/photos/36749491@N00/16343839795",
+    "license": "by",
+    "creator": "dam"
+  },
+  {
+    "id": "LAB-169",
+    "query": "ACS712 current sensor",
+    "title": "DIY Allegro Current Sensor Breakout",
+    "source": "https://www.flickr.com/photos/69679892@N00/3891366674",
+    "license": "by-sa",
+    "creator": "piesden"
+  },
+  {
+    "id": "LAB-170",
+    "query": "BMP280 barometric sensor",
+    "title": "Adafruit BMP280 I2C or SPI Barometric Pressure & Altitude Sensor - STEMMA QT",
+    "source": "https://www.flickr.com/photos/35434449@N08/50073107032",
+    "license": "by-nc-sa",
+    "creator": "adafruit"
+  },
+  {
+    "id": "LAB-173",
+    "query": "sound sensor module electronics",
+    "title": "Modules (back)",
+    "source": "https://www.flickr.com/photos/10206744@N00/5045894655",
+    "license": "by-nc-sa",
+    "creator": "zeni666"
+  },
+  {
+    "id": "LAB-175",
+    "query": "water level sensor module",
+    "title": "Water Level Sensor Module, Depth of Detection Height for Arduino",
+    "source": "https://www.thingiverse.com/thing:3753221",
+    "license": "cc0",
+    "creator": "Ashley Turner"
+  },
+  {
+    "id": "LAB-177",
+    "query": "fingerprint sensor module",
+    "title": "Lenovo ThinkPad W701ds－Ringle's 筆電",
+    "source": "https://www.flickr.com/photos/12882975@N00/5564294270",
+    "license": "by-nc-sa",
+    "creator": "kenming Wang"
+  },
+  {
+    "id": "LAB-179",
+    "query": "infrared receiver module",
+    "title": "Watching the watchers",
+    "source": "https://www.flickr.com/photos/8616953@N04/3022069780",
+    "license": "by-nc-sa",
+    "creator": "cdine"
+  },
+  {
+    "id": "LAB-181",
+    "query": "membrane keypad electronics",
+    "title": "Vintage Sharp EL-8130 Super Thinman Electronic Pocket Calculator, World's First Touch Key Calculator With A Membrane Keypad, LCD, Made In Japan, Circa 1977",
+    "source": "https://www.flickr.com/photos/51764518@N02/15076181610",
+    "license": "by-sa",
+    "creator": "France1978"
+  },
+  {
+    "id": "LAB-182",
+    "query": "rotary potentiometer electronic",
+    "title": "wind instrument",
+    "source": "https://www.thingiverse.com/thing:2004942",
+    "license": "cc0",
+    "creator": "aurelian paun"
+  },
+  {
+    "id": "LAB-183",
+    "query": "push button electronic component",
+    "title": "92003 Dollands Moor to Wembley 6B20 (6B41) Danone bottled mineral water (Evian, Badoit, Volvic) from France",
+    "source": "https://www.flickr.com/photos/99279135@N05/11287032613",
+    "license": "by-sa",
+    "creator": "train_photos"
+  },
+  {
+    "id": "LAB-184",
+    "query": "toggle switch electronic",
+    "title": "Toggle switch, electronic chip circuit",
+    "source": "https://www.rawpixel.com/image/11189707/toggle-switch-electronic-chip-circuit",
+    "license": "cc0",
+    "creator": null
+  },
+  {
+    "id": "LAB-186",
+    "query": "LED matrix 8x8 module",
+    "title": "4x8x8 LED Dot Matrix Clock",
+    "source": "https://www.thingiverse.com/thing:2924435",
+    "license": "cc0",
+    "creator": "Wolfgang Lange"
+  },
+  {
+    "id": "LAB-187",
+    "query": "NeoPixel LED ring",
+    "title": "16 RGB LED Neopixel ring displaying EEG data via Bluetooth",
+    "source": "https://www.flickr.com/photos/37996583811@N01/16336797136",
+    "license": "by-nc",
+    "creator": "Rain Rabbit"
+  },
+  {
+    "id": "LAB-188",
+    "query": "solar panel small electronics",
+    "title": "iss038e045009",
+    "source": "https://www.flickr.com/photos/29988733@N04/12468114213",
+    "license": "by-nc",
+    "creator": "NASA Johnson"
+  },
+  {
+    "id": "LAB-189",
+    "query": "18650 battery holder",
+    "title": "18650 Battery Holder",
+    "source": "https://www.thingiverse.com/thing:3024647",
+    "license": "cc0",
+    "creator": "Ryan Colyer"
+  },
+  {
+    "id": "LAB-190",
+    "query": "DC buck converter module",
+    "title": "LM2596 Led Voltmeter DC-DC Buck Step Down Converter Module Voltage Regulator",
+    "source": "https://www.flickr.com/photos/53354512@N00/26473241647",
+    "license": "by-nc-sa",
+    "creator": "tudedude"
+  },
+  {
+    "id": "LAB-191",
+    "query": "DC boost converter module",
+    "title": "Very small DC-DC 0.9-5V to DC 5V Step-UP Boost Voltage Converter Module",
+    "source": "https://www.flickr.com/photos/99656861@N05/34034704965",
+    "license": "by",
+    "creator": "きくーち"
+  },
+  {
+    "id": "LAB-194",
+    "query": "A4988 stepper driver",
+    "title": "Pololu A4988 Stepper Driver Wiring Guide",
+    "source": "https://www.flickr.com/photos/36473423@N02/6536627859",
+    "license": "by-sa",
+    "creator": "Nick Ames"
+  },
+  {
+    "id": "LAB-195",
+    "query": "PCA9685 servo driver",
+    "title": "Adafruit 16-Channel 12-bit PWM/Servo Driver - I2C interface - PCA9685",
+    "source": "https://www.flickr.com/photos/35434449@N08/10193861226",
+    "license": "by-nc-sa",
+    "creator": "adafruit"
+  },
+  {
+    "id": "LAB-196",
+    "query": "MOSFET module Arduino",
+    "title": "Mosfet driver board",
+    "source": "https://www.flickr.com/photos/20664401@N00/6741309927",
+    "license": "by-nc",
+    "creator": "dargs"
+  }
+]

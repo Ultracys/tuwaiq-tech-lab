@@ -1,0 +1,538 @@
+[
+  {
+    "id": "ELC-001",
+    "label": "Arduino Uno",
+    "matched": "Arduino UNO SPE Shield",
+    "store": "https://thepihut.com",
+    "source": "https://thepihut.com/products/arduino-uno-spe-shield",
+    "image": "assets/store-products/ELC-001.jpg"
+  },
+  {
+    "id": "ELC-002",
+    "label": "Raspberry Pi Pico",
+    "matched": "Get Started with MicroPython on Raspberry Pi Pico",
+    "store": "https://shop.pimoroni.com",
+    "source": "https://shop.pimoroni.com/products/get-started-with-micropython-on-raspberry-pi-pico",
+    "image": "assets/store-products/ELC-002.jpg"
+  },
+  {
+    "id": "ELC-003",
+    "label": "ESP32",
+    "matched": "NanoS3 - ESP32-S3 Module",
+    "store": "https://shop.pimoroni.com",
+    "source": "https://shop.pimoroni.com/products/nanos3",
+    "image": "assets/store-products/ELC-003.jpg"
+  },
+  {
+    "id": "ELC-004",
+    "label": "micro:bit",
+    "matched": "BBC micro:bit v2 Club (10 pack)",
+    "store": "https://shop.pimoroni.com",
+    "source": "https://shop.pimoroni.com/products/bbc-micro-bit-club-10-pack",
+    "image": "assets/store-products/ELC-004.jpg"
+  },
+  {
+    "id": "ELC-005",
+    "label": "Arduino Nano",
+    "matched": "Arduino Nano RP2040 Connect",
+    "store": "https://shop.pimoroni.com",
+    "source": "https://shop.pimoroni.com/products/arduino-nano-rp2040-connect",
+    "image": "assets/store-products/ELC-005.jpg"
+  },
+  {
+    "id": "ELC-006",
+    "label": "Raspberry Pi Zero",
+    "matched": "GPi Case for Raspberry Pi Zero",
+    "store": "https://shop.pimoroni.com",
+    "source": "https://shop.pimoroni.com/products/gpi-raspberry-pi-zero-case",
+    "image": "assets/store-products/ELC-006.jpg"
+  },
+  {
+    "id": "ELC-007",
+    "label": "Relay Module",
+    "matched": "5 V Relay Module",
+    "store": "https://shop.pimoroni.com",
+    "source": "https://shop.pimoroni.com/products/5-v-relay-module",
+    "image": "assets/store-products/ELC-007.jpg"
+  },
+  {
+    "id": "ELC-008",
+    "label": "Breadboard",
+    "matched": "Mini Solderless Breadboard - White 5 Rows - 25 total points - ZY-25",
+    "store": "https://thepihut.com",
+    "source": "https://thepihut.com/products/mini-solderless-breadboard-white-5-rows-25-total-points-zy-25",
+    "image": "assets/store-products/ELC-008.jpg"
+  },
+  {
+    "id": "ELC-009",
+    "label": "LED",
+    "matched": "Single-Ended Flexible LED Filament - 3V 25mm long",
+    "store": "https://thepihut.com",
+    "source": "https://thepihut.com/products/single-ended-flexible-led-filament-3v-25mm-long",
+    "image": "assets/store-products/ELC-009.jpg"
+  },
+  {
+    "id": "ELC-010",
+    "label": "Resistor",
+    "matched": "Snap-on Enclosure for Adafruit USB-C CC Resistor Fixer",
+    "store": "https://thepihut.com",
+    "source": "https://thepihut.com/products/snap-on-enclosure-for-adafruit-usb-type-c-cc-resistor-fixer",
+    "image": "assets/store-products/ELC-010.jpg"
+  },
+  {
+    "id": "ELC-011",
+    "label": "Transistor",
+    "matched": "Transistor and Trimmer Set",
+    "store": "https://shop.pimoroni.com",
+    "source": "https://shop.pimoroni.com/products/transistor-and-trimmer-set",
+    "image": "assets/store-products/ELC-011.jpg"
+  },
+  {
+    "id": "ELC-012",
+    "label": "MOSFET Module",
+    "matched": "3-Channel High Power MOSFET (IRF540NS) Module",
+    "store": "https://shop.pimoroni.com",
+    "source": "https://shop.pimoroni.com/products/3-channel-high-power-mosfet-irf540ns-module",
+    "image": "assets/store-products/ELC-012.jpg"
+  },
+  {
+    "id": "ELC-013",
+    "label": "Logic Level Converter",
+    "matched": "Logic Level Converter Board",
+    "store": "https://thepihut.com",
+    "source": "https://thepihut.com/products/logic-level-converter-board",
+    "image": "assets/store-products/ELC-013.jpg"
+  },
+  {
+    "id": "ELC-014",
+    "label": "Rotary Encoder",
+    "matched": "Step16 Unit with 16-bit Rotary Encoder (GSMR-16)",
+    "store": "https://thepihut.com",
+    "source": "https://thepihut.com/products/step16-unit-with-16-bit-rotary-encoder-gsmr-16",
+    "image": "assets/store-products/ELC-014.jpg"
+  },
+  {
+    "id": "ELC-015",
+    "label": "Potentiometer",
+    "matched": "Adafruit NeoPot - Clear Shaft Potentiometer with RGB NeoPixel",
+    "store": "https://thepihut.com",
+    "source": "https://thepihut.com/products/adafruit-neopot-clear-shaft-potentiometer-with-rgb-neopixel",
+    "image": "assets/store-products/ELC-015.jpg"
+  },
+  {
+    "id": "ELC-016",
+    "label": "Push Button",
+    "matched": "LED Illuminated Push Button - 51mm Square",
+    "store": "https://thepihut.com",
+    "source": "https://thepihut.com/products/led-illuminated-push-button-51mm-square",
+    "image": "assets/store-products/ELC-016.jpg"
+  },
+  {
+    "id": "ELC-017",
+    "label": "Toggle Switch",
+    "matched": "DPDT ON-OFF-ON Non-Latching Miniature Toggle Switch",
+    "store": "https://thepihut.com",
+    "source": "https://thepihut.com/products/dpdt-on-off-on-non-latching-miniature-toggle-switch",
+    "image": "assets/store-products/ELC-017.jpg"
+  },
+  {
+    "id": "ELC-018",
+    "label": "Buzzer",
+    "matched": "Active Buzzer Module (2 pcs)",
+    "store": "https://shop.pimoroni.com",
+    "source": "https://shop.pimoroni.com/products/active-buzzer-module-2-pcs",
+    "image": "assets/store-products/ELC-018.jpg"
+  },
+  {
+    "id": "ELC-019",
+    "label": "Micro SD Module",
+    "matched": "2.8\" TFT LCD with Cap Touch Breakout Board w/MicroSD Socket - EYESPI Connector",
+    "store": "https://shop.pimoroni.com",
+    "source": "https://shop.pimoroni.com/products/2-8-tft-lcd-with-cap-touch-breakout-board-w-microsd-socket-eyespi-connector",
+    "image": "assets/store-products/ELC-019.jpg"
+  },
+  {
+    "id": "ELC-020",
+    "label": "OLED Display",
+    "matched": "I2C 0.96 OLED Display (SSD1306)",
+    "store": "https://thepihut.com",
+    "source": "https://thepihut.com/products/display-oled-i2c-0-96-ssd1306",
+    "image": "assets/store-products/ELC-020.jpg"
+  },
+  {
+    "id": "ELC-021",
+    "label": "LCD Display",
+    "matched": "2\" Capacitive Touch IPS LCD Display (240 x 320)",
+    "store": "https://thepihut.com",
+    "source": "https://thepihut.com/products/2-capacitive-touch-ips-lcd-display-240-x-320",
+    "image": "assets/store-products/ELC-021.jpg"
+  },
+  {
+    "id": "ELC-022",
+    "label": "TFT Display",
+    "matched": "Adafruit 1.9\" 320x170 Color IPS TFT Display - ST7789",
+    "store": "https://shop.pimoroni.com",
+    "source": "https://shop.pimoroni.com/products/adafruit-1-9-320x170-color-ips-tft-display-st7789",
+    "image": "assets/store-products/ELC-022.jpg"
+  },
+  {
+    "id": "ELC-023",
+    "label": "7 Segment Display",
+    "matched": "2.13\" 250x122 Monochrome or Gray eInk / ePaper - Bare Display - SSD1680Z",
+    "store": "https://thepihut.com",
+    "source": "https://thepihut.com/products/2-13-250x122-monochrome-or-gray-eink-epaper-bare-display-ssd1680z-chip",
+    "image": "assets/store-products/ELC-023.jpg"
+  },
+  {
+    "id": "ELC-024",
+    "label": "E-Paper Display",
+    "matched": "2.13\" (250x122) Quad-Colour eInk / ePaper Display",
+    "store": "https://thepihut.com",
+    "source": "https://thepihut.com/products/adafruit-2-13-250x122-quad-colour-eink-epaper-display",
+    "image": "assets/store-products/ELC-024.jpg"
+  },
+  {
+    "id": "ELC-025",
+    "label": "LED Matrix",
+    "matched": "Adafruit CharliePlex LED Matrix Bonnet - 8x16 Red LEDs",
+    "store": "https://thepihut.com",
+    "source": "https://thepihut.com/products/adafruit-charlieplex-led-matrix-bonnet-8x16-red-leds",
+    "image": "assets/store-products/ELC-025.jpg"
+  },
+  {
+    "id": "ELC-026",
+    "label": "NeoPixel Ring",
+    "matched": "NeoPixel Triple-Ring Board with 44 Thru-Hole LEDs - 66mm Diameter",
+    "store": "https://shop.pimoroni.com",
+    "source": "https://shop.pimoroni.com/products/neopixel-triple-ring-board-with-44-thru-hole-leds-66mm-diameter",
+    "image": "assets/store-products/ELC-026.jpg"
+  },
+  {
+    "id": "ELC-027",
+    "label": "RFID Reader",
+    "matched": "13.56MHz RFID/NFC Clear Tag - NTAG203 Chip",
+    "store": "https://shop.pimoroni.com",
+    "source": "https://shop.pimoroni.com/products/13-56mhz-rfid-nfc-clear-tag-ntag203-chip",
+    "image": "assets/store-products/ELC-027.jpg"
+  },
+  {
+    "id": "ELC-028",
+    "label": "NFC Reader",
+    "matched": "M5Stack NFC Universal Unit (ST25R3916)",
+    "store": "https://thepihut.com",
+    "source": "https://thepihut.com/products/m5stack-nfc-universal-unit-st25r3916",
+    "image": "assets/store-products/ELC-028.jpg"
+  },
+  {
+    "id": "ELC-029",
+    "label": "Bluetooth Module",
+    "matched": "M5Stack DC Encoder Motor Module 4 Channels",
+    "store": "https://shop.pimoroni.com",
+    "source": "https://shop.pimoroni.com/products/4-channels-dc-encoder-motor-driver-module",
+    "image": "assets/store-products/ELC-029.jpg"
+  },
+  {
+    "id": "ELC-030",
+    "label": "LoRa Module",
+    "matched": "SparkFun LoRa Thing Plus - expLoRaBLE",
+    "store": "https://shop.pimoroni.com",
+    "source": "https://shop.pimoroni.com/products/sparkfun-lora-thing-plus-explorable",
+    "image": "assets/store-products/ELC-030.jpg"
+  },
+  {
+    "id": "ELC-031",
+    "label": "GPS Module",
+    "matched": "GPS Module v2.1 with Antenna (ATGM336H)",
+    "store": "https://thepihut.com",
+    "source": "https://thepihut.com/products/gps-module-v2-1-with-antenna-atgm336h",
+    "image": "assets/store-products/ELC-031.jpg"
+  },
+  {
+    "id": "ELC-032",
+    "label": "WiFi Module",
+    "matched": "8-Channel ESP32-S3 WiFi Relay Module with RS485 (PoE Option)",
+    "store": "https://thepihut.com",
+    "source": "https://thepihut.com/products/8-channel-esp32-s3-wifi-relay-module-with-rs485-poe-option",
+    "image": "assets/store-products/ELC-032.jpg"
+  },
+  {
+    "id": "ELC-033",
+    "label": "Ethernet Module",
+    "matched": "Gigabit Ethernet Module Case for Raspberry Pi 5",
+    "store": "https://thepihut.com",
+    "source": "https://thepihut.com/products/gigabit-ethernet-module-case-for-raspberry-pi-5",
+    "image": "assets/store-products/ELC-033.jpg"
+  },
+  {
+    "id": "ELC-034",
+    "label": "CAN Bus Module",
+    "matched": "Adafruit PiCowbell CAN Bus for Pico - MCP2515 CAN Controller",
+    "store": "https://shop.pimoroni.com",
+    "source": "https://shop.pimoroni.com/products/adafruit-picowbell-can-bus-for-pico-mcp2515-can-controller",
+    "image": "assets/store-products/ELC-034.jpg"
+  },
+  {
+    "id": "ELC-035",
+    "label": "Buck Converter",
+    "matched": "TPS62827 3.3V Buck Converter Breakout - 3.3V Output 2 Amp Max",
+    "store": "https://shop.pimoroni.com",
+    "source": "https://shop.pimoroni.com/products/tps62827-3-3v-buck-converter-breakout-3-3v-output-2-amp-max",
+    "image": "assets/store-products/ELC-035.jpg"
+  },
+  {
+    "id": "ELC-036",
+    "label": "Boost Converter",
+    "matched": "Adafruit TPS65131 Split Power Supply Boost Converter - +6~15 / -6V~-15V",
+    "store": "https://thepihut.com",
+    "source": "https://thepihut.com/products/adafruit-tps65131-split-power-supply-boost-converter-6-15-6v-15v",
+    "image": "assets/store-products/ELC-036.jpg"
+  },
+  {
+    "id": "ELC-037",
+    "label": "Battery Charger",
+    "matched": "VSRmini 6A 60W AC Battery Charger",
+    "store": "https://shop.pimoroni.com",
+    "source": "https://shop.pimoroni.com/products/vsrmini-charger",
+    "image": "assets/store-products/ELC-037.jpg"
+  },
+  {
+    "id": "ELC-038",
+    "label": "Motor Driver",
+    "matched": "Adafruit STSPIN220 Stepper Motor Driver Breakout Board",
+    "store": "https://shop.pimoroni.com",
+    "source": "https://shop.pimoroni.com/products/adafruit-stspin220-stepper-motor-driver-breakout-board",
+    "image": "assets/store-products/ELC-038.jpg"
+  },
+  {
+    "id": "ELC-039",
+    "label": "Servo Driver",
+    "matched": "M5Stack C-Back HAT with Servo Driver (STM32F0)",
+    "store": "https://thepihut.com",
+    "source": "https://thepihut.com/products/m5stack-c-back-hat-with-servo-driver-stm32f0",
+    "image": "assets/store-products/ELC-039.jpg"
+  },
+  {
+    "id": "ELC-040",
+    "label": "PIR Motion Sensor",
+    "matched": "Micro PIR Motion Sensor (2 pcs)",
+    "store": "https://shop.pimoroni.com",
+    "source": "https://shop.pimoroni.com/products/micro-pir-motion-sensor-2-pcs",
+    "image": "assets/store-products/ELC-040.jpg"
+  },
+  {
+    "id": "ELC-041",
+    "label": "Ultrasonic Sensor",
+    "matched": "URM13 Ultrasonic Sensor",
+    "store": "https://shop.pimoroni.com",
+    "source": "https://shop.pimoroni.com/products/urm13-ultrasonic-sensor",
+    "image": "assets/store-products/ELC-041.jpg"
+  },
+  {
+    "id": "ELC-042",
+    "label": "Temperature Sensor",
+    "matched": "DHT11 Digital Temperature Humidity Sensor Module",
+    "store": "https://shop.pimoroni.com",
+    "source": "https://shop.pimoroni.com/products/dht11-digital-temperature-humidity-sensor-module",
+    "image": "assets/store-products/ELC-042.jpg"
+  },
+  {
+    "id": "ELC-043",
+    "label": "Soil Moisture Sensor",
+    "matched": "ThirdReality Zigbee Smart Soil Moisture Sensor Gen2",
+    "store": "https://thepihut.com",
+    "source": "https://thepihut.com/products/thirdreality-zigbee-smart-soil-moisture-sensor-gen2",
+    "image": "assets/store-products/ELC-043.jpg"
+  },
+  {
+    "id": "ELC-044",
+    "label": "Gas Sensor",
+    "matched": "Adafruit ENS160 MOX Gas Sensor - Sciosense CCS811 Upgrade",
+    "store": "https://shop.pimoroni.com",
+    "source": "https://shop.pimoroni.com/products/adafruit-ens160-mox-gas-sensor-sciosense-ccs811-upgrade-stemma-qt-qwiic",
+    "image": "assets/store-products/ELC-044.jpg"
+  },
+  {
+    "id": "ELC-045",
+    "label": "Light Sensor",
+    "matched": "Adafruit MAX44009 Wide-range Lux Light Sensor - 188,000 Lux Max - STEMMA QT / Qwiic",
+    "store": "https://shop.pimoroni.com",
+    "source": "https://shop.pimoroni.com/products/adafruit-max44009-wide-range-lux-light-sensor-188-000-lux-max-stemma-qt-qwiic",
+    "image": "assets/store-products/ELC-045.jpg"
+  },
+  {
+    "id": "ELC-046",
+    "label": "Current Sensor",
+    "matched": "Voltage & Current Sensor INA219 Breakout",
+    "store": "https://thepihut.com",
+    "source": "https://thepihut.com/products/voltage-current-sensor-ina219-breakout",
+    "image": "assets/store-products/ELC-046.jpg"
+  },
+  {
+    "id": "ELC-047",
+    "label": "Pressure Sensor",
+    "matched": "RS485 Air Temperature, Humidity and Barometric Pressure Sensor (S-THP-01A)",
+    "store": "https://thepihut.com",
+    "source": "https://thepihut.com/products/rs485-air-temperature-humidity-and-barometric-pressure-sensor-s-thp-01a",
+    "image": "assets/store-products/ELC-047.jpg"
+  },
+  {
+    "id": "ELC-048",
+    "label": "IMU Sensor",
+    "matched": "10-Axis ROS IMU Sensor [Discontinued]",
+    "store": "https://thepihut.com",
+    "source": "https://thepihut.com/products/10-axis-ros-imu-sensor",
+    "image": "assets/store-products/ELC-048.jpg"
+  },
+  {
+    "id": "ELC-049",
+    "label": "Flame Sensor",
+    "matched": "Adafruit MAX44009 Wide-range Lux Light Sensor - 188,000 Lux Max - STEMMA QT / Qwiic",
+    "store": "https://shop.pimoroni.com",
+    "source": "https://shop.pimoroni.com/products/adafruit-max44009-wide-range-lux-light-sensor-188-000-lux-max-stemma-qt-qwiic",
+    "image": "assets/store-products/ELC-049.jpg"
+  },
+  {
+    "id": "ELC-050",
+    "label": "Sound Sensor",
+    "matched": "Microphone Sound Sensor Module",
+    "store": "https://shop.pimoroni.com",
+    "source": "https://shop.pimoroni.com/products/microphone-sound-sensor-module",
+    "image": "assets/store-products/ELC-050.jpg"
+  },
+  {
+    "id": "ELC-051",
+    "label": "Rain Sensor",
+    "matched": "Industrial-Grade Optical Rain Gauge RG-9 Rain Sensor",
+    "store": "https://thepihut.com",
+    "source": "https://thepihut.com/products/industrial-grade-optical-rain-gauge-rg-9-rain-sensor",
+    "image": "assets/store-products/ELC-051.jpg"
+  },
+  {
+    "id": "ELC-052",
+    "label": "Water Level Sensor",
+    "matched": "Soil Moisture Sensor & Water Level Sensor Module",
+    "store": "https://shop.pimoroni.com",
+    "source": "https://shop.pimoroni.com/products/soil-moisture-sensor-water-level-sensor-module",
+    "image": "assets/store-products/ELC-052.jpg"
+  },
+  {
+    "id": "ELC-053",
+    "label": "Hall Sensor",
+    "matched": "Hall Current Sensor DAQ HAT for Raspberry Pi",
+    "store": "https://thepihut.com",
+    "source": "https://thepihut.com/products/hall-current-sensor-daq-hat-for-raspberry-pi",
+    "image": "assets/store-products/ELC-053.jpg"
+  },
+  {
+    "id": "ELC-054",
+    "label": "Fingerprint Sensor",
+    "matched": "UART Capacitive Fingerprint Sensor (FPC Connector)",
+    "store": "https://shop.pimoroni.com",
+    "source": "https://shop.pimoroni.com/products/uart-capacitive-fingerprint-sensor-fpc-connector",
+    "image": "assets/store-products/ELC-054.jpg"
+  },
+  {
+    "id": "ELC-055",
+    "label": "Load Cell",
+    "matched": "Electronic Scale Load Cell Sensor",
+    "store": "https://shop.pimoroni.com",
+    "source": "https://shop.pimoroni.com/products/electronic-scale-load-cell-sensor",
+    "image": "assets/store-products/ELC-055.jpg"
+  },
+  {
+    "id": "ELC-056",
+    "label": "IR Receiver",
+    "matched": "Infrared Receiver Stick + Remote Kit",
+    "store": "https://shop.pimoroni.com",
+    "source": "https://shop.pimoroni.com/products/infrared-receiver-remote",
+    "image": "assets/store-products/ELC-056.jpg"
+  },
+  {
+    "id": "ELC-057",
+    "label": "Line Sensor",
+    "matched": "Grove - IR Line Follower Sensor V3.0",
+    "store": "https://thepihut.com",
+    "source": "https://thepihut.com/products/grove-ir-line-follower-sensor-v3-0",
+    "image": "assets/store-products/ELC-057.jpg"
+  },
+  {
+    "id": "ELC-058",
+    "label": "Thermal Camera Sensor",
+    "matched": "M5Stack Thermal Camera Unit",
+    "store": "https://thepihut.com",
+    "source": "https://thepihut.com/products/m5stack-thermal-camera-unit-mlx90640",
+    "image": "assets/store-products/ELC-058.jpg"
+  },
+  {
+    "id": "ELC-059",
+    "label": "Camera Module",
+    "matched": "16MP Camera Module for Raspberry Pi",
+    "store": "https://shop.pimoroni.com",
+    "source": "https://shop.pimoroni.com/products/16mp-autofocus-camera-module-for-raspberry-pi",
+    "image": "assets/store-products/ELC-059.jpg"
+  },
+  {
+    "id": "ELC-060",
+    "label": "Micro Servo Motor",
+    "matched": "Pololu Wheel for Micro Servo Splines (20T, 4.8mm) - 60×8mm, 2-Pack",
+    "store": "https://shop.pimoroni.com",
+    "source": "https://shop.pimoroni.com/products/pololu-wheel-for-micro-servo-splines-20t-4-8mm-60x8mm-2-pack",
+    "image": "assets/store-products/ELC-060.jpg"
+  },
+  {
+    "id": "ELC-061",
+    "label": "Standard Servo Motor",
+    "matched": "Replacement Servo Motor for AxiDraw",
+    "store": "https://shop.pimoroni.com",
+    "source": "https://shop.pimoroni.com/products/replacement-servo-motor-for-axidraw",
+    "image": "assets/store-products/ELC-061.jpg"
+  },
+  {
+    "id": "ELC-062",
+    "label": "Stepper Motor",
+    "matched": "Pololu TB67S581FNG Stepper Motor Driver Carrier",
+    "store": "https://thepihut.com",
+    "source": "https://thepihut.com/products/pololu-tb67s581fng-stepper-motor-driver-carrier",
+    "image": "assets/store-products/ELC-062.jpg"
+  },
+  {
+    "id": "ELC-063",
+    "label": "DC Motor",
+    "matched": "DRV8874 Single Brushed DC Motor Driver Carrier",
+    "store": "https://shop.pimoroni.com",
+    "source": "https://shop.pimoroni.com/products/drv8874-single-brushed-dc-motor-driver-carrier",
+    "image": "assets/store-products/ELC-063.jpg"
+  },
+  {
+    "id": "ELC-064",
+    "label": "Micro Gear Motor",
+    "matched": "Right Angle Micro Metal Gearmotor",
+    "store": "https://shop.pimoroni.com",
+    "source": "https://shop.pimoroni.com/products/right-angle-micro-metal-gearmotor",
+    "image": "assets/store-products/ELC-064.jpg"
+  },
+  {
+    "id": "ELC-065",
+    "label": "Brushless Motor",
+    "matched": "Three Phase Brushless Gimbal Stabilizer Motor",
+    "store": "https://thepihut.com",
+    "source": "https://thepihut.com/products/three-phase-brushless-gimbal-stabilizer-motor",
+    "image": "assets/store-products/ELC-065.jpg"
+  },
+  {
+    "id": "ELC-066",
+    "label": "Vibration Motor",
+    "matched": "Vibration Motor Module (2 pcs)",
+    "store": "https://shop.pimoroni.com",
+    "source": "https://shop.pimoroni.com/products/vibration-motor-module-2-pcs",
+    "image": "assets/store-products/ELC-066.jpg"
+  },
+  {
+    "id": "ELC-067",
+    "label": "Linear Actuator",
+    "matched": "reSpeaker Flex XVF3800 - Linear with XIAO ESP32S3",
+    "store": "https://thepihut.com",
+    "source": "https://thepihut.com/products/respeaker-flex-xvf3800-linear-with-xiao-esp32s3",
+    "image": "assets/store-products/ELC-067.jpg"
+  }
+]
